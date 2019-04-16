@@ -1,0 +1,5 @@
+﻿  컴그월화이동규2.cpp
+c:\users\donggyu\documents\2015180030 leedonggyu\코딩파일\컴그월화이동규2\컴그월화이동규2\컴그월화이동규2.cpp(722): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+c:\users\donggyu\documents\2015180030 leedonggyu\코딩파일\컴그월화이동규2\컴그월화이동규2\컴그월화이동규2.cpp(722): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'float *'입니다.
+  컴그월화이동규2.vcxproj -> C:\Users\DongGyu\Documents\2015180030 LeeDongGyu\코딩파일\컴그월화이동규2\Debug\컴그월화이동규2.exe
+  컴그월화이동규2.vcxproj -> C:\Users\DongGyu\Documents\2015180030 LeeDongGyu\코딩파일\컴그월화이동규2\Debug\컴그월화이동규2.pdb (Full PDB)

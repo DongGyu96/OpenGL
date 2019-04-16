@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\donggyu\documents\2015180030 leedonggyu\코딩파일\컴퓨터 그래픽스 실습 32~40 2015180030 이동규\prob 36\소스.cpp(479): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  Prob 36.vcxproj -> C:\Users\DongGyu\Documents\2015180030 LeeDongGyu\코딩파일\컴퓨터 그래픽스 실습 32~40 2015180030 이동규\Debug\Prob 36.exe
+  Prob 36.vcxproj -> C:\Users\DongGyu\Documents\2015180030 LeeDongGyu\코딩파일\컴퓨터 그래픽스 실습 32~40 2015180030 이동규\Debug\Prob 36.pdb (Full PDB)

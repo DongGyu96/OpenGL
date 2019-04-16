@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Meteor">
+      <UniqueIdentifier>{b4b92296-e503-40fd-96ef-b7549a42f18b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Spaceship">
+      <UniqueIdentifier>{9f11d5d4-8d0f-40c3-8f13-19477464c57e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LoadBitmap">
+      <UniqueIdentifier>{b8056ee5-870a-481a-8cd8-7adb38580d96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Earth">
+      <UniqueIdentifier>{b1154de9-06fe-478f-8056-490dc54974cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logo">
+      <UniqueIdentifier>{2ac72fab-1ea0-47f7-a362-1bf728ecafb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Space">
+      <UniqueIdentifier>{f3bbdf6f-fc94-4bbf-a36c-e3408103f2fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Satellite">
+      <UniqueIdentifier>{51eff371-19e3-41a3-8a37-d387d7f4978a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{28e1c7b2-2504-4f07-ba78-66a74e59b5ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shop">
+      <UniqueIdentifier>{f52e7590-45e8-4bbc-960c-1dc8bcf756f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Spaceship.h">
+      <Filter>Spaceship</Filter>
+    </ClInclude>
+    <ClInclude Include="Loadbitmap.h">
+      <Filter>LoadBitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Earth.h">
+      <Filter>Earth</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="Space.h">
+      <Filter>Space</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Satellite.h">
+      <Filter>Satellite</Filter>
+    </ClInclude>
+    <ClInclude Include="Meteor.h">
+      <Filter>Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Shop</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기말.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Meteor.cpp">
+      <Filter>Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="Spaceship.cpp">
+      <Filter>Spaceship</Filter>
+    </ClCompile>
+    <ClCompile Include="Loadbitmap.cpp">
+      <Filter>LoadBitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Earth.cpp">
+      <Filter>Earth</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="Space.cpp">
+      <Filter>Space</Filter>
+    </ClCompile>
+    <ClCompile Include="Satellite.cpp">
+      <Filter>Satellite</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Shop</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="BK.bmp">
+      <Filter>Space</Filter>
+    </Image>
+    <Image Include="BK_top.bmp">
+      <Filter>Space</Filter>
+    </Image>
+    <Image Include="earth.bmp">
+      <Filter>Space</Filter>
+    </Image>
+    <Image Include="logo.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo1.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo2.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo3.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo4.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo5.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo6.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo7.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo8.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="logo9.bmp">
+      <Filter>Logo</Filter>
+    </Image>
+    <Image Include="satellite.bmp">
+      <Filter>Shop</Filter>
+    </Image>
+    <Image Include="attack.bmp">
+      <Filter>Shop</Filter>
+    </Image>
+    <Image Include="SHOP.bmp">
+      <Filter>Shop</Filter>
+    </Image>
+    <Image Include="meteor2.bmp">
+      <Filter>Meteor</Filter>
+    </Image>
+    <Image Include="meteor.bmp">
+      <Filter>Meteor</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="기말.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="wav\bgm.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="gamebgm.wav">
+      <Filter>Sound</Filter>
+    </Media>
+    <Media Include="Boost.wav">
+      <Filter>Sound</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿  기말.cpp
+c:\users\donggyu\downloads\컴그 기말 프로젝트\기말\shop.h(3): warning C4005: 'MAX': 매크로 재정의
+  c:\users\donggyu\downloads\컴그 기말 프로젝트\기말\space.h(4): note: 'MAX'의 이전 정의를 참조하십시오.
+  기말.vcxproj -> C:\Users\DongGyu\Downloads\컴그 기말 프로젝트\Debug\기말.exe
+  기말.vcxproj -> C:\Users\DongGyu\Downloads\컴그 기말 프로젝트\Debug\기말.pdb (Full PDB)
